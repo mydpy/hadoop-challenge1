@@ -10,7 +10,6 @@ public class Challenge1{
 	     * 3. Create a Job instance, set properties
 	     * 4. Set key/value types
 	     */
-		  
 		  return 0; 
 	  }
 	  
